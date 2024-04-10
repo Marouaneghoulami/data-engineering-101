@@ -1,0 +1,15 @@
+# Main Sections
+[API-1]
+url = <your-api-url>
+
+[API-2]
+url = <your-api-url>
+
+[Paths]
+raw_dir = <raw-dir-relative-path>
+curated_dir = <curated-dir-relative-path>
+registry_file = <registry-file-path>
+
+# Test Sections
+[UNIT-TEST-API-v1]
+url = https://dummy.testing.api/v1
